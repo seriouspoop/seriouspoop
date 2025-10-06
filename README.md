@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Harshit Singh</h1>
-<h3 align="center">cs undergrad, passionate about web technologies.</h3>
+<h3 align="center">CS undergrad, passionate about web technologies.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=seriouspoop&label=Profile%20views&color=0e75b6&style=flat" alt="seriouspoop" /> </p>
 
