@@ -4,7 +4,11 @@
 I'm Harshit Singh, CS undergrad passionate about web technologies.
 
 I love working with distributed backend systems. I'm high on Optimizations,
-currently optimiting my skills in [Go](go.dev) and [Rust 🦀](rust-lang.org). I'm also a frequent contributor to Observebility Tools
+currently optimizing my skills in [Go](go.dev) and [Rust 🦀](rust-lang.org).
+
+I'm also a frequent contributor to Observebility Tools (OpenTelemetry & Grafana).
+I love system engineering and low level development.
+
 
 
 - 🔭 I’m currently working on [AlgoBench](https://github.com/seriouspoop/AlgoBench)
