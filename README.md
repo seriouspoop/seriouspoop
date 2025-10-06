@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=seriouspoop&label=Profile%20views&color=0e75b6&style=flat" alt="seriouspoop" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=seriouspoop" alt="seriouspoop" /></a> </p>
-
 - 🔭 I’m currently working on [AlgoBench](https://github.com/seriouspoop/AlgoBench)
 
 - 🌱 I’m currently learning **Rust**
