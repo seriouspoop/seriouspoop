@@ -1,5 +1,5 @@
-#Hey there! 👋
-###I'm Harshit Singh, CS undergrad passionate about web technologies.
+# Hey there! 👋
+### I'm Harshit Singh, CS undergrad passionate about web technologies.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=seriouspoop&label=Profile%20views&color=0e75b6&style=flat" alt="seriouspoop" /> </p>
 
